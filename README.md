@@ -6,4 +6,9 @@ The correct way to clone this repository to get the hardware and firmware submod
 
 	git clone --recursive git@github.com:physical-computation/Warp.git
 
+To update all submodules
+
+	git pull --recurse-submodules
+	git submodule update --remote --recursive
+ 
 
