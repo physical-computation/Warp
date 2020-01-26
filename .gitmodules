@@ -1,6 +1,6 @@
 [submodule "hardware"]
 	path = hardware
-	url = git@github.com:physical-computation/Warp-hardware.git
+	url = ../../physical-computation/Warp-hardware.git
 [submodule "firmware"]
 	path = firmware
-	url = git@github.com:physical-computation/Warp-firmware.git
+	url = ../../physical-computation/Warp-firmware.git
